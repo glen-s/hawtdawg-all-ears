@@ -7,3 +7,11 @@ We know you could type lots of text, or copy from the downloaded material, but w
 Not typing as much as we might.
 
 A third paragraph with maybe one sentence? We should have two! Or three since the actual material we should be typing is made up of a few sentences.
+
+## Where do I list my favorite treats?
+
+Open the Hawt Dawg app.
+
+Scroll down. Do some stuff.
+
+You're done when you click Save Changes!
